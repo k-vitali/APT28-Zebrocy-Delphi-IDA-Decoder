@@ -1,0 +1,147 @@
+[*] Attempting to decode strings in APT28 Zebrocy Implant
+Ref Addr: 0x49972d | Decoded: yyyy.mm.dd
+Ref Addr: 0x4999f0 | Decoded: yyyy-mm-dd hh-mm-ss
+Ref Addr: 0x499bb4 | Decoded: yyyymmddhhmmss
+Ref Addr: 0x499c3a | Decoded: .tmp
+Ref Addr: 0x499e81 | Decoded: c:\
+Ref Addr: 0x49a676 | Decoded:  bytes]
+Ref Addr: 0x49a86b | Decoded: \*.*
+Ref Addr: 0x49a991 | Decoded: *.*
+Ref Addr: 0x49ab09 | Decoded: -SCAN-
+Ref Addr: 0x49ab57 | Decoded: .txt
+Ref Addr: 0x49ae66 | Decoded: *.*
+Ref Addr: 0x49ae90 | Decoded: *.*
+Ref Addr: 0x49afc0 | Decoded: -SCAN-
+Ref Addr: 0x49b093 | Decoded: -SCAN-
+Ref Addr: 0x49b0ae | Decoded: END
+Ref Addr: 0x49b0d9 | Decoded: .txt
+Ref Addr: 0x49b12a | Decoded: -ACCOUNT_DATA-
+Ref Addr: 0x49b15b | Decoded: .txt
+Ref Addr: 0x49b344 | Decoded: \Volatile Environment
+Ref Addr: 0x49b36d | Decoded: USERNAME
+Ref Addr: 0x49b44f | Decoded: -Users-
+Ref Addr: 0x49b4c4 | Decoded:  -> 
+Ref Addr: 0x49b547 | Decoded: Current user: 
+Ref Addr: 0x49b998 | Decoded: -Dir-
+Ref Addr: 0x49b9c0 | Decoded: Win: 
+Ref Addr: 0x49b9f3 | Decoded: Sysr: 
+Ref Addr: 0x49ba26 | Decoded: Tmp: 
+Ref Addr: 0x49ba59 | Decoded: Current: 
+Ref Addr: 0x49baa6 | Decoded: Prg start: 
+Ref Addr: 0x49be1d | Decoded: REMOVABLE
+Ref Addr: 0x49be37 | Decoded: FIXED
+Ref Addr: 0x49be51 | Decoded: REMOTE
+Ref Addr: 0x49be6b | Decoded: CDROM
+Ref Addr: 0x49be85 | Decoded: RAMDISK
+Ref Addr: 0x49bef5 | Decoded: , S/N: 
+Ref Addr: 0x49bf08 | Decoded: , Total size: 
+Ref Addr: 0x49bf3a | Decoded: , Free size: 
+Ref Addr: 0x49bf88 | Decoded: , S/N: 
+Ref Addr: 0x49c1a4 | Decoded: 80386
+Ref Addr: 0x49c1b3 | Decoded: 80486
+Ref Addr: 0x49c1c2 | Decoded: Pentium
+Ref Addr: 0x49c1d1 | Decoded: Pentium Pro
+Ref Addr: 0x49c473 | Decoded: -HDr-
+Ref Addr: 0x49c49b | Decoded: KBrd Lang: 
+Ref Addr: 0x49c4ce | Decoded: Proc Level: 
+Ref Addr: 0x49c501 | Decoded: CPU: 
+Ref Addr: 0x49c545 | Decoded: PC Name: 
+Ref Addr: 0x49c578 | Decoded: Video Card: 
+Ref Addr: 0x49c743 | Decoded: -Inst-
+Ref Addr: 0x49c7a3 | Decoded: Software\Microsoft\Windows\CurrentVersion\Uninstall
+Ref Addr: 0x49c7f8 | Decoded: Software\Microsoft\Windows\CurrentVersion\Uninstall\
+Ref Addr: 0x49c82c | Decoded: DisplayName
+Ref Addr: 0x49c852 | Decoded: DisplayName
+Ref Addr: 0x49ca66 | Decoded: -Open process-
+Ref Addr: 0x4d9249 | Decoded: WinLog\
+Ref Addr: 0x4d9270 | Decoded: KUSPTC\
+Ref Addr: 0x4d929b | Decoded: \Microsoft\InterfaceCache\58HF3EFD-FE13-32E2-DB13H512\
+Ref Addr: 0x4d92b5 | Decoded: \Microsoft\CloudStore\
+Ref Addr: 0x4d9486 | Decoded: .bat
+Ref Addr: 0x4d94e6 | Decoded: del "
+Ref Addr: 0x4d94f6 | Decoded: TIMEOUT /T 5 /NOBREAK
+Ref Addr: 0x4d96cf | Decoded: .tmp
+Ref Addr: 0x4d9732 | Decoded: Software\Microsoft\Windows\CurrentVersion\Run
+Ref Addr: 0x4d974f | Decoded: High Definition Audio Driver
+Ref Addr: 0x4d976c | Decoded: n76Jh-)b!_mD=(%hGg*ff&Xc^Qw94.sY+vK@md
+Ref Addr: 0x4d9789 | Decoded: &H$hR-TC@-(kenT%&g#jJy#10kB=st13.f*aIu
+Ref Addr: 0x4d97a6 | Decoded: http://185.25.50.93/techicalBS391-two/supptech18i/suppid.php
+Ref Addr: 0x4d97c3 | Decoded: http://222.15.23.121/gft_piyes/ndhfkuryhs09/fdfd_iunb_hhert_ps.php
+Ref Addr: 0x4d97fe | Decoded: .cf
+Ref Addr: 0x4d9dc1 | Decoded: .dll
+Ref Addr: 0x4d9ddb | Decoded: rundll32
+Ref Addr: 0x4d9ef3 | Decoded: .cab
+Ref Addr: 0x4da068 | Decoded:  - Ok
+Ref Addr: 0x4da0b3 | Decoded:  - File not found
+Ref Addr: 0x4da329 | Decoded: - File not found
+Ref Addr: 0x4da38c | Decoded: - Error
+Ref Addr: 0x4da3cc | Decoded: - Ok
+Ref Addr: 0x4da851 | Decoded: \*.*
+Ref Addr: 0x4da9cd | Decoded: *.*
+Ref Addr: 0x4daa75 | Decoded: yyyy.mm.dd
+Ref Addr: 0x4dae09 | Decoded: cmd.exe /c 
+Ref Addr: 0x4db2b5 | Decoded: UpAndExec_
+Ref Addr: 0x4db71a | Decoded: [...]
+Ref Addr: 0x4dbbd2 | Decoded: - Not found
+Ref Addr: 0x4dbc25 | Decoded: - Error
+Ref Addr: 0x4dbc60 | Decoded: - Ok
+Ref Addr: 0x4dc25f | Decoded: - Ok
+Ref Addr: 0x4dc294 | Decoded: - Error
+Ref Addr: 0x4dc5b7 | Decoded: - Ok
+Ref Addr: 0x4dc5ec | Decoded: - Error
+Ref Addr: 0x4dc77b | Decoded: - Ok
+Ref Addr: 0x4dc7b0 | Decoded: - Error
+Ref Addr: 0x4dcaf0 | Decoded: - Ok
+Ref Addr: 0x4dcb32 | Decoded: - Error
+Ref Addr: 0x4dcb6c | Decoded: - Error
+Ref Addr: 0x4dceb4 | Decoded: Error
+Ref Addr: 0x4dd047 | Decoded: Error
+Ref Addr: 0x4dd1a7 | Decoded: Ok
+Ref Addr: 0x4dd1e4 | Decoded: Error
+Ref Addr: 0x4dd651 | Decoded: Error
+Ref Addr: 0x4dd7e1 | Decoded:  - DELETED
+Ref Addr: 0x4dd815 | Decoded: Error
+Ref Addr: 0x4dd917 | Decoded: - terminated
+Ref Addr: 0x4dd94c | Decoded: - error or not found
+Ref Addr: 0x4ddab0 | Decoded: .cf
+Ref Addr: 0x4ddb45 | Decoded: Ok
+Ref Addr: 0x4ddb54 | Decoded: Error
+Ref Addr: 0x4ddc06 | Decoded: Net:
+Ref Addr: 0x4ddd6f | Decoded: .temp
+Ref Addr: 0x4dde01 | Decoded: cmd
+Ref Addr: 0x4ddf48 | Decoded: -cmd-
+Ref Addr: 0x4ddf8b | Decoded: .txt
+Ref Addr: 0x4de0a3 | Decoded: Exec_
+Ref Addr: 0x4de141 | Decoded: - Ok
+Ref Addr: 0x4de176 | Decoded: - Error
+Ref Addr: 0x4de2b1 | Decoded: - Ok
+Ref Addr: 0x4de2e6 | Decoded: - Error
+Ref Addr: 0x4de3cf | Decoded: .tmp
+Ref Addr: 0x4de492 | Decoded: .tmp
+Ref Addr: 0x4de615 | Decoded: - Ok
+Ref Addr: 0x4de64a | Decoded: - Error
+Ref Addr: 0x4de7d5 | Decoded: .cab
+Ref Addr: 0x4de86a | Decoded: Ok
+Ref Addr: 0x4de879 | Decoded: Error
+Ref Addr: 0x4dea34 | Decoded:  - OK
+Ref Addr: 0x4dea43 | Decoded:  - ERROR
+Ref Addr: 0x4deb0f | Decoded: schtasks /Create /SC MINUTE /MO 20 /TN "Windiws\Microsoft\
+Ref Addr: 0x4deb28 | Decoded: " /TR "
+Ref Addr: 0x4df319 | Decoded: -FILE-
+Ref Addr: 0x4df358 | Decoded: .tmp
+Ref Addr: 0x4df379 | Decoded: userfile
+Ref Addr: 0x4df6df | Decoded: *.*
+Ref Addr: 0x4df70a | Decoded: *.*
+Ref Addr: 0x4df7a2 | Decoded: -DOWNLOAD_START-
+Ref Addr: 0x4df959 | Decoded:  bytes]
+Ref Addr: 0x4df9ab | Decoded: - File not found
+Ref Addr: 0x4e0028 | Decoded: *.tmp
+Ref Addr: 0x4e00f3 | Decoded: .tmp
+Ref Addr: 0x4e0578 | Decoded: Start: 
+Ref Addr: 0x4e06c1 | Decoded: Image_
+Ref Addr: 0x4e06d4 | Decoded: .jpg
+Ref Addr: 0x4e0714 | Decoded: DESK-
+Ref Addr: 0x4e0748 | Decoded: .tmp
+Ref Addr: 0x4e091b | Decoded: DESK-
+Ref Addr: 0x4e094c | Decoded: .jpg
+Ref Addr: 0x4e0ca4 | Decoded:  - [v8.5]
