@@ -1,3 +1,4 @@
+# @VK_Intel
 # APT28 Delphi Zebrocy Decoder IDA Script
 # Sample SHA256: 3a76c161401979a1899b6dfefb5e9fc67b62cad61b9998610442c80cdcf4bcb7
 # function -> 0x0049A15C
